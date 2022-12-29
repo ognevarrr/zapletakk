@@ -3,3 +3,6 @@
 @import 'font.css';
 @import 'layout.css';
 @import 'responsive.css';
+@import 'iphone.css';
+@import '1024.css';
+@import '1280.css';
